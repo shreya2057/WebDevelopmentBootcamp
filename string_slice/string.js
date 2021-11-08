@@ -1,1 +1,0 @@
-var tweet = prompt("Enter your tweet: ");
