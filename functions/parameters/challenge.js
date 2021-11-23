@@ -4,7 +4,7 @@ getLifeInWeeks(yourAge);
 function getLifeInWeeks(yourAge){
 
     var aliveAge = 90;
-    var remainingAge = 90 - yourAge;
+    var remainingAge = aliveAge - yourAge;
 
     var days = 365;
     var weeks = 52;
